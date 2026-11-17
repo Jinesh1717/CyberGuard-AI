@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.3
+faiss-cpu==1.8.0.post1
+numpy==1.26.4
+PyMuPDF==1.24.10
+pytest==8.3.3
+PyYAML==6.0.2
+requests==2.32.3
+sentence-transformers==3.1.1
+streamlit==1.39.0
+llama-cpp-python==0.3.1

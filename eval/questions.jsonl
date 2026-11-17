@@ -1,0 +1,3 @@
+{"id":"q1","group":"answerable","question":"How can I recognize phishing?","expected_doc_ids":["cisa_phishing"]}
+{"id":"q2","group":"answerable","question":"Why use MFA?","expected_doc_ids":["cisa_mfa"]}
+{"id":"q3","group":"out_of_scope","question":"What is the weather today?","expected_doc_ids":[]}

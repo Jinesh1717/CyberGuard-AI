@@ -1,0 +1,30 @@
+- id: cisa_phishing
+  title: Recognize and Report Phishing
+  publisher: CISA
+  url: https://www.cisa.gov/secure-our-world/recognize-and-report-phishing
+  doc_type: html
+  retrieved_on: "2026-11-17"
+- id: cisa_passwords
+  title: Use Strong Passwords
+  publisher: CISA
+  url: https://www.cisa.gov/secure-our-world/use-strong-passwords
+  doc_type: html
+  retrieved_on: "2026-11-17"
+- id: cisa_mfa
+  title: Require Multifactor Authentication
+  publisher: CISA
+  url: https://www.cisa.gov/secure-our-world/require-multifactor-authentication
+  doc_type: html
+  retrieved_on: "2026-11-17"
+- id: cisa_updates
+  title: Keep Your Software Up to Date
+  publisher: CISA
+  url: https://www.cisa.gov/secure-our-world/keep-your-software-up-to-date
+  doc_type: html
+  retrieved_on: "2026-11-17"
+- id: nist_800_63b
+  title: Digital Identity Guidelines: Authentication and Lifecycle Management
+  publisher: NIST
+  url: https://pages.nist.gov/800-63-4/sp800-63b.html
+  doc_type: html
+  retrieved_on: "2026-11-17"
